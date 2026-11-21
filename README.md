@@ -53,6 +53,9 @@ List of streaming software, VTuber avatar tools, and audio utilities for Linux-b
 - [SnekStudio](https://snekstudio.com/)  
   Open-source 3D VTuber avatar tool with Mediapipe support (body and face tracking via webcam) for VRM avatars.  
   **Linux:** Native (Flatpak available)
+- [Shapeweld VRM Version Converter](https://shapeweld.com/tools/vrm-version-converter)  
+  Web-based converter between VRM 1.0 and VRM 0.x (drop a .vrm, download the other version).  
+  **Linux:** Native (browser)
 
 ---
 
